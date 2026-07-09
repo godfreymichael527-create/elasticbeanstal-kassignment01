@@ -13,3 +13,6 @@ AWS Elastic Beanstalk is a managed service that makes it easy to deploy and run 
 2. Elastic Beanstalk provisions EC2 instances, a load balancer, and auto-scaling
 3. It deploys your app and monitors its health
 4. Push updates anytime — EB handles the redeploy
+
+# elasticbeanstal-kassignment01
+
